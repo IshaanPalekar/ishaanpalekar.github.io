@@ -1,1 +1,5 @@
-#homepage
+---
+permalink: /
+title: "Homepage"
+---
+main stuff
