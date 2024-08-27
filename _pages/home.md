@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Homepage"
-layout: splash
+layout: home
 author_profile: true
 ---
 main stuff
